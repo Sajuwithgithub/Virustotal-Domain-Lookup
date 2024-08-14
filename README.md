@@ -14,7 +14,7 @@ Navigate to the appropriate directory by executing the following command: cd URL
 
 Install the required dependencies by running the following command: pip3 install -r requirements.txt
 
-Open the "virustotal_url_scan.py" file in a text editor and replace the api_key variable with your own VirusTotal API key under the value attribute "apikey".
+Open the "virustotal_domain_scan.py" file in a text editor and replace the api_key variable with your own VirusTotal API key under the value attribute "apikey".
 
 Usage
 
